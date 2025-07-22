@@ -1,3 +1,9 @@
+# Patches only.
+
+We are providing this repo as a patch only repo - so that those who enjoy this theme can continue to use it. If you wish to update to pxyfluff's latest theme, see below, we recommend it! It just didn't have the same feature set as this one.
+
+---
+
 # Code Archive
 ## Please use [pyxfluff/moderntheme](https://github.com/pyxfluff/moderntheme) instead.
 
